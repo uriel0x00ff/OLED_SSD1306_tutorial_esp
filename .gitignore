@@ -1,0 +1,16 @@
+# Archivos del sistema
+.DS_Store
+
+# Archivos temporales de Arduino
+*.hex
+*.elf
+*.bin
+
+# Carpetas comunes de IDEs
+/build/
+*.dep
+*.d
+
+# Archivos de backup
+*~
+
