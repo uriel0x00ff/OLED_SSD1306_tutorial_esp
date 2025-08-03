@@ -47,6 +47,6 @@ Este proyecto se distribuye bajo la licencia MIT. Eres libre de usar, modificar 
 ## Autor
 
 **Uriel Lomelí**  
-Mazatlán, Sinaloa (MX) – Julio 2025
+
 
 ---
